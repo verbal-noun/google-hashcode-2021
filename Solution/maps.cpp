@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// Cases for the test inputs provided by the hackathon
 string getFileName(char letter)
 {
 	string name;
@@ -25,6 +26,7 @@ string getFileName(char letter)
 	return name;
 }
 
+// the run function
 int main(int argc, char *argv[])
 {
 
