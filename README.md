@@ -20,3 +20,4 @@ Once the popularities were calculated, they were converted into timings with the
 ```
 timing = ceil(intersection_duration * street_pop / intersection_pop)
 ```
+Other algorithms we're considered too; however, discarded due to the competition's time constraints.
